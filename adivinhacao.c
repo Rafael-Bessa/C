@@ -7,9 +7,9 @@ int main()
     printf("BEM VINDO AO JOGO DE ADIVINHACAO\n\n");
     printf("**********************************\n\n");
 
-    int numeroSecreto = rand() % 100 + 1; /*Gerar um número aleatorio de 1 a 100*/
-    printf("%d", numeroSecreto);
-
+    int numeroSecreto = rand() % 100 + 1; /*Gerar um numero aleatorio de 1 a 100*/
+    
+	
 
     return 0;
 }
